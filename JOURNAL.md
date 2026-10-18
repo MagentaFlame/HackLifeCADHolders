@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmv78gd1z00ds01pke7fz90i2). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> In the face of the world championships, I've always wanted to make something. Also, I've been looking for good keyboard fidgets, so why not make one myself? It's going to include a summoner's rift shaped keyboard fidget with a space in the back of the box to fit two other charms - MSI trophy and HLE uniform
+> In the face of the world championships, I've always wanted to make something. Also, I've been looking for good keyboard fidgets, so why not make one myself? It's going to include a summoner's rift shaped keyboard fidget and the keycaps!
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
